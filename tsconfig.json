@@ -18,6 +18,8 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
     "jsx": "react-jsx"
   },
   "include": [
